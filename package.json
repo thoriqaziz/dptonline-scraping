@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/mysql": "^2.15.21",
+    "jsdom": "^22.1.0",
+    "msnodesqlv8": "^4.1.0",
+    "mssql": "^9.1.1",
+    "mysql": "^2.18.1",
+    "puppeteer": "^20.4.0"
+  }
+}
